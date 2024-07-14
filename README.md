@@ -3,7 +3,9 @@ IT Security and Safety in Cyber-Physical Systems by Thomas Passon
 Strategies for Risk Minimization and Standards Enhancement
 
 Author: Thomas Passon
+
 GitHub Repository: www.github.com/tpasson/doc-it-security-and-safety
+
 Website: www.passon.tech
 
 Overview
